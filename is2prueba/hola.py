@@ -8,5 +8,7 @@ def hello_world():
 if __name__ == '__main__':
     app.run()
  
-print hola
+print "hola"
+print "chau"
+
  
